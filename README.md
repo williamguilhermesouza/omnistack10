@@ -27,14 +27,8 @@ A aplicação mobile foi criada utilizando React Native, através do expo, uma f
 No desenvolvimento dessa parte da aplicação foram usadas quase que totalmente bibliotecas nativas para o react native e para o próprio expo, como react-native-maps, react-native-webview, dentre outras.
 
 Também foi utilizado o axios para comunicação com API e o client do socketio para criar o socket para atualização em tempo real.
-
-<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg" alt="mobile1" width="250" height="400">
-
-<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile2.jpg" alt="mobile1" width="250" height="400">
-
-<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile3.jpg" alt="mobile1" width="250" height="400">
-
-<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile4.jpg" alt="mobile1" width="250" height="400">
+:--------------------------------:|:----------------------:|:-------------:|:-------------:
+<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg" alt="mobile1" width="250" height="400"> | <img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile2.jpg" alt="mobile1" width="250" height="400"> | <img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile3.jpg" alt="mobile1" width="250" height="400"> | <img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile4.jpg" alt="mobile1" width="250" height="400">
 
 
 ***
