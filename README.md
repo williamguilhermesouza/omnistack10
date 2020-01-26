@@ -30,6 +30,8 @@ Também foi utilizado o axios para comunicação com API e o client do socketio 
 
 ![mobile1](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg =150x300)
 
+<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg" alt="mobile1" width="150" height="300">
+
 ![mobile2](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile2.jpg =150x300)
 
 ![mobile3](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile3.jpg =150x300)
