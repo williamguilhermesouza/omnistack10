@@ -12,12 +12,16 @@ Além destes também foi usado o nodemon como dependência de desenvolvimento.
 
 O Banco de Dados utilizado foi o BD não-relacional MongoDB. Ele foi usado através da nuvem, sem necessidade de instalação local, com o serviço MongoDB Atlas.
 
+![mongodb]()
+
 ## **Web**
 ***
 No frontend web a aplicação foi desenvolvida utilizando o ReactJS, aliado ao CSS3 e HTML da página juntamente com todas as dependências usadas através do "create react-app".
 
 Também foi usado o axios para contato com o backend através de uma API. 
 
+![web]()
+![web1]()
 
 ## **Mobile**
 ***
@@ -26,6 +30,11 @@ A aplicação mobile foi criada utilizando React Native, através do expo, uma f
 No desenvolvimento dessa parte da aplicação foram usadas quase que totalmente bibliotecas nativas para o react native e para o próprio expo, como react-native-maps, react-native-webview, dentre outras.
 
 Também foi utilizado o axios para comunicação com API e o client do socketio para criar o socket para atualização em tempo real.
+
+![mobile1]()
+![mobile2]()
+![mobile3]()
+![mobile4]()
 
 ***
 
