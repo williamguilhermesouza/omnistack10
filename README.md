@@ -32,7 +32,6 @@ Também foi utilizado o axios para comunicação com API e o client do socketio 
 <img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg" alt="mobile1" width="250" height="400"> | 
 <img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile2.jpg" alt="mobile1" width="250" height="400"> | 
 <img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile3.jpg" alt="mobile1" width="250" height="400"> | 
-- |
 <img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile4.jpg" alt="mobile1" width="250" height="400">
 
 
