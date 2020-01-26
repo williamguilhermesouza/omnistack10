@@ -28,15 +28,14 @@ No desenvolvimento dessa parte da aplicação foram usadas quase que totalmente 
 
 Também foi utilizado o axios para comunicação com API e o client do socketio para criar o socket para atualização em tempo real.
 
-![mobile1](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg =150x300)
+<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg" alt="mobile1" width="250" height="400">
 
-<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg" alt="mobile1" width="150" height="300">
+<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile2.jpg" alt="mobile1" width="250" height="400">
 
-![mobile2](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile2.jpg =150x300)
+<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile3.jpg" alt="mobile1" width="250" height="400">
 
-![mobile3](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile3.jpg =150x300)
+<img src="https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile4.jpg" alt="mobile1" width="250" height="400">
 
-![mobile4](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile4.jpg =150x300)
 
 ***
 
