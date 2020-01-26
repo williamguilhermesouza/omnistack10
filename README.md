@@ -18,6 +18,7 @@ No frontend web a aplicação foi desenvolvida utilizando o ReactJS, aliado ao C
 Também foi usado o axios para contato com o backend através de uma API. 
 
 ![web](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/web.png)
+
 ![web1](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/web1.png)
 
 ## **Mobile**
@@ -27,10 +28,13 @@ No desenvolvimento dessa parte da aplicação foram usadas quase que totalmente 
 
 Também foi utilizado o axios para comunicação com API e o client do socketio para criar o socket para atualização em tempo real.
 
-![mobile1](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg)
-![mobile2](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile2.jpg)
-![mobile3](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile3.jpg)
-![mobile4](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile4.jpg)
+![mobile1](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile1.jpg | width=150)
+
+![mobile2](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile2.jpg | width=150)
+
+![mobile3](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile3.jpg | width=150)
+
+![mobile4](https://raw.githubusercontent.com/williamguilhermesouza/omnistack10/master/samples/mobile4.jpg | width=150)
 
 ***
 
