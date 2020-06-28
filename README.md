@@ -1,4 +1,4 @@
-# Código da Semana de treinamento omnistack com uso das Tecnologias Node.js, React e React Native
+# Projeto DevRadar
 
 ## **Finalidade**
 Criar uma aplicação completa (backend, web e mobile) com o objetivo de ser um radar de desenvolvedores, onde um desenvolvedor pode se cadastrar na aplicação, buscar e ser encontrado por outros desenvolvedores para troca de experiências.
